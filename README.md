@@ -1,6 +1,6 @@
 ## Repo Init ##
 ```bash
-repo init -u https://github.com/oplus-mt6895/kernel_manifest.git -b bka
+repo init -u https://github.com/oplus-mt6895/kernel_manifest.git -b cpa
 ```
 ## Sync Source ##
 ```bash
